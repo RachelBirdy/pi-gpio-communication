@@ -1,1 +1,3 @@
 Current issues: The write and read commands can overlap depending on clock speed differences. Need more waiting.
+
+The software currently uses 18 pins - pins 0-7 for send, pins 8-15 for receive, and pins 16 and 17 for signalling the other pi.
