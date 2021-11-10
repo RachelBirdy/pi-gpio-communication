@@ -1,0 +1,1 @@
+Current issues: The write and read commands can overlap depending on clock speed differences. Need more waiting.
